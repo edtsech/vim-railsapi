@@ -1,0 +1,18 @@
+*railsapi.txt* Plugin that allows you to query railsapi.com from Vim
+
+Author:  Eduard Tsech <edtsech@gmail.com>                   *railsapi-author*
+
+License: Same terms as Vim itself (see |license|)
+
+==============================================================================
+INTRODUCTION                                                      *railsapi*
+
+This plugin allows you to browse http://railsapi.com/ from Vim.
+It will invoke Firefox on Linux/Windows from the command line or
+default browser on Mac OS, and open the query in a new tab.
+
+==============================================================================
+USAGE                                                         *railsapi-usage*
+
+<Leader> ra  - Search word under cursor
+
